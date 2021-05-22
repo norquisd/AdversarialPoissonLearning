@@ -1,0 +1,31 @@
+Accuracy=100.000000
+Epsilon equals:0.001
+Accuracy from adversarial perturbation:100.000000
+Average accuracy from random perturbation:100.000000
+Epsilon equals:0.010
+Accuracy from adversarial perturbation:99.797980
+Average accuracy from random perturbation:100.000000
+Epsilon equals:0.100
+Accuracy from adversarial perturbation:96.363636
+Average accuracy from random perturbation:100.000000
+Epsilon equals:1.000
+Accuracy from adversarial perturbation:88.686869
+Average accuracy from random perturbation:99.191919
+Epsilon equals:10.000
+Accuracy from adversarial perturbation:87.878788
+Average accuracy from random perturbation:94.747475
+Epsilon equals:100.000
+Accuracy from adversarial perturbation:86.262626
+Average accuracy from random perturbation:94.747475
+Epsilon equals:1000.000
+Accuracy from adversarial perturbation:85.656566
+Average accuracy from random perturbation:95.555556
+Epsilon equals:10000.000
+Accuracy from adversarial perturbation:84.444444
+Average accuracy from random perturbation:96.767677
+Epsilon equals:100000.000
+Accuracy from adversarial perturbation:84.646465
+Average accuracy from random perturbation:96.565657
+Epsilon equals:1000000.000
+Accuracy from adversarial perturbation:84.646465
+Average accuracy from random perturbation:96.363636

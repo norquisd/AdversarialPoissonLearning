@@ -1,0 +1,22 @@
+Accuracy=89.546396
+Epsilon equals:1.000
+Accuracy from adversarial perturbation:89.720694
+Average accuracy from random perturbation:89.562112
+Epsilon equals:10.000
+Accuracy from adversarial perturbation:89.626402
+Average accuracy from random perturbation:89.727838
+Epsilon equals:100.000
+Accuracy from adversarial perturbation:89.832131
+Average accuracy from random perturbation:90.036431
+Epsilon equals:1000.000
+Accuracy from adversarial perturbation:91.122223
+Average accuracy from random perturbation:89.777841
+Epsilon equals:10000.000
+Accuracy from adversarial perturbation:86.620473
+Average accuracy from random perturbation:89.906422
+Epsilon equals:100000.000
+Accuracy from adversarial perturbation:83.300236
+Average accuracy from random perturbation:89.283520
+Epsilon equals:1000000.000
+Accuracy from adversarial perturbation:81.900136
+Average accuracy from random perturbation:91.526538
